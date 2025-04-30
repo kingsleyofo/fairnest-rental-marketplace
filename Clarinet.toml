@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.fairnest-governance]
+path = "contracts/fairnest-governance.clar"
+depends_on = []
+
 [contracts.fairnest-marketplace]
 path = "contracts/fairnest-marketplace.clar"
 depends_on = []
